@@ -4,4 +4,4 @@ La herencia nos permite definir una clase en términos de otra clase, lo cual ha
 
 Una clase puede dervar de más de una clase.
 
-[Regresar al temario](../../Temario.md)
+[Regresar al temario](../../README.md)

@@ -2,8 +2,8 @@
 
 ## 1. Encapsulamiento
 
-* ### 1.1 ¿Qué es encapsulamiento?
-* ### 1.2 Especificadores de acceso
+* ### [1.1 ¿Qué es encapsulamiento?](./Ejemplos/Encapsulamiento/encapsulamiento1.1.md)
+* ### [1.2 Especificadores de acceso](./Ejemplos/Encapsulamiento/encapsulamiento1.2.md)
 * ### 1.3 Private
 * ### 1.4 Public
 * ### 1.5 Protected
