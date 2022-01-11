@@ -20,3 +20,6 @@
 * ### 3.1 ¿Qué es polimorfismo?
 * ### 3.2 Funciones virtuales
 * ### 3.3 Funciones puramente virtuales
+
+## 4. Abstracción
+* ### ¿Qué es abstracción?
